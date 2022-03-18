@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/50464472/159058832-a003e74a-92ed-4c4f-
  
 
 
-# 🔧 How to run
+## 🔧 How to run
 Download this project to your computer or use the git command `git clone` <br/>
 Open the folder stream-data-challenge in your system's shell <br/>
 Run `$ yarn install` to install the project's modules <br/>
