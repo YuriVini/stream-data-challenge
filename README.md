@@ -6,7 +6,7 @@
 ## 💻 Project
 
 
-Aplicativo para lhe ajudar a guardar senhas que você provavelmente esqueceria.
+App to see data from Twitch api based in your Twitch User.
 
 https://user-images.githubusercontent.com/50464472/159058832-a003e74a-92ed-4c4f-9bee-0503abda41f4.mp4
 
